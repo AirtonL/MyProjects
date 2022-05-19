@@ -1,6 +1,6 @@
 # Trybe
 
-Este repositório contém todos os projetos de aprendizagem desenvolvidas por _[Airton Lopes]([https://www.linkedin.com/in/airtonl/])_ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
+Este repositório contém todos os projetos de aprendizagem desenvolvidas por _[Airton Lopes](https://www.linkedin.com/in/airtonl/)_ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
 
 _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia."_
 
