@@ -38,9 +38,9 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 - [x] _[Project - Blogs API](https://github.com/AirtonL/trybe-project-blogs-api)_
 - [x] _[Project - Stranger Things]()_
 - [x] _[Project - Trybesmith](https://github.com/AirtonL/project-trybesmith)_
-- [ ] _[Project - Trybers and Dragons]()_
-- [ ] _[Project - Trybe Futebol Club]()_
-- [ ] _[Project - Commerce]()_
+- [X] _[Project - Trybers and Dragons]()_
+- [X] _[Project - Trybe Futebol Club](https://github.com/AirtonL/Trybe-Futebol-Club)_
+- [X] _[Project - Commerce]()_
 - [ ] _[Project - Car Shop]()_
 - [ ] _[Project - Delivery App]()_
 
