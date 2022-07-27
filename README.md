@@ -28,7 +28,7 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 - [x] _[Project - Star Wars Datatable]()_
 - [x] _[Project - Recipe App]()_
 
-## Desenvolvimento Back-end :hourglass_flowing_sand:
+## Desenvolvimento Back-end :heavy_check_mark:
 
 - [x] _[Project - Docker To Do List]()_
 - [x] _[Project - MySQL All For One]()_
